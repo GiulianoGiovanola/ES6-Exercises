@@ -193,4 +193,4 @@ for (let i = 1; i <= 3; i++) {
 
 //Ejercicio 20
 
-console.log("Ex 20.");
+console.log("Ex 20.", "No lo hice (consultar)");
